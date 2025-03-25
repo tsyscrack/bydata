@@ -28,7 +28,7 @@ class ByData:
         self.proxies = []
         self.proxy_index = 0
         self.account_proxies = {}
-        self.ref_code = "S4ML6AMW" # U can change it with yours.
+        self.ref_code = "MFTOQAKL" # U can change it with yours.
 
     def clear_terminal(self):
         os.system('cls' if os.name == 'nt' else 'clear')
